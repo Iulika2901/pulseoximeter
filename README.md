@@ -1,2 +1,2 @@
 # pulseoximeter
-Arduino Uno prohect
+Arduino Uno project
